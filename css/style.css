@@ -2,11 +2,13 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: aquamarine;
     color: burlywood;
-    margin-left: 40%;
     
 }
 .nav{
     margin-right: 5%;
+    margin-left: 5%;
+    background-color: black;
+    
 }
 
 .nav-link{
