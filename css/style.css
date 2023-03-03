@@ -1,8 +1,11 @@
+body{
+    background-image: ("");
+}
 h1{
+    background-size: cover;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: aquamarine;
-    color: burlywood;
-    
+    background-color: darkgray;
+    color: burlywood;   
 }
 .nav{
     margin-right: 5%;
