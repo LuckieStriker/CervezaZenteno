@@ -1,11 +1,12 @@
 body{
-    background-image: ("");
+    background-image: url ();
 }
 h1{
-    background-size: cover;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: darkgray;
-    color: burlywood;   
+    /*background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;*/
+    background-color: black;
+    color: burlywood;
+
 }
 .nav{
     margin-right: 5%;
@@ -16,4 +17,16 @@ h1{
 
 .nav-link{
     color: burlywood;
+}
+
+.d-block{
+    object-fit: cover;
+    object-position: left;
+    width:200px;
+    height:500px;
+    border: solid 1px #CCC
+}
+
+.nav .nav-item a:hover{
+    color: blueviolet;
 }
