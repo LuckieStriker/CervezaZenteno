@@ -1,18 +1,19 @@
 body{
-    background-image: url ();
+    background-color: burlywood;
 }
 h1{
     /*background-size: cover;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;*/
-    background-color: black;
-    color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;*/
+    color: black;
 
 }
 .nav{
     margin-right: 5%;
     margin-left: 5%;
-    background-color: black;
-    
+    background-color: darkcyan;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
 }
 
 .nav-link{
