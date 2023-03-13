@@ -1,6 +1,7 @@
 
 let html="";
 function navbar(){
+    
     let links =[
         ["Inicio","../index.html"],
         ["Dónde encontrarnos", "../html/ubi.html"],
