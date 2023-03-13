@@ -11,7 +11,7 @@ function navbar(){
     for (let i=0;i<links.length;i++){
         let str=""+links[i];
         str=str.split(',');
-        html+="<ul class='nav justify-content-end'><li class='nav-item'><a class='nav-link active' aria-current='page' href='"+str[1]+"'>"+str[0]+"</a></li></ul>";
+        html+="<li class='nav-item'><a class='nav-link active' aria-current='page' href='"+str[1]+"'></li>"+str[0]+"</a>";
         document.getElementById('nav').innerHTML=html;
     }   
     
