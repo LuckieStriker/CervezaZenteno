@@ -6,7 +6,7 @@ function navbar(){
         ["Inicio","../index.html"],
         ["Dónde encontrarnos", "../html/ubi.html"],
         ["Envíos","../html/envios.html"],
-        ["Nosotros","../html/contacto.html"]
+        ["Nosotros","../html/nosotros.html"]
     ];
     
     for (let i=0;i<links.length;i++){
